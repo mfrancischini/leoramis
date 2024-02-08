@@ -10,6 +10,7 @@
 
 
 
+
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
@@ -64,6 +65,9 @@
   --radius-15: 15px;
   --radius-20: 20px;
 
+
+  
+
   /**
    * spacing
    */
@@ -101,6 +105,8 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+
 
 li { list-style: none; }
 
@@ -630,7 +636,7 @@ textarea.contact-input {
 
 .footer {
   background-color: var(--independence);
-  padding-block: 60px;
+  padding-block: 30px;
 }
 
 .copyright {
@@ -1076,3 +1082,4 @@ textarea.contact-input {
   display: block;
   margin-top: 10px;
 }
+
